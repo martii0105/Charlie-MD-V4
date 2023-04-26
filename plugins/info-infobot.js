@@ -48,9 +48,9 @@ let old = performance.now()
   let speed = neww - old
 
 let info = `┌───⊷ ${lb}
-┆[🤴🏻] 𝘾𝙧𝙚𝙖𝙙𝙤𝙧: 𝐍𝐚𝐭𝐢𝐱𝐂𝐡𝐚𝐫𝐥𝐢𝐞
+┆[🤴🏻] 𝘾𝙧𝙚𝙖𝙙𝙤𝙧: Martiii.bs
 ┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┆[#️⃣] *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤:* *wa.me/51994156047*
+┆[#️⃣] *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤:* *wa.me/+56953453830*
 ┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┆[✅] *𝙑𝙚𝙧𝙨𝙞𝙤𝙣 𝙖𝙘𝙩𝙪𝙖𝙡:* ${vs}
 ┆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -83,7 +83,7 @@ let info = `┌───⊷ ${lb}
 ┆[❗] *𝙍𝙚𝙨𝙩𝙧𝙞𝙘𝙩:* ${restrict ? '*Activado ✔*' : '*Desactivado ✘*'} 
 ┆
 ╰──────────────────`.trim() 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝐍𝐚𝐭𝐢𝐱𝐂𝐡𝐚𝐫𝐥𝐢𝐞', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', 'Martiii.bs', 'status@broadcast')
 conn.sendFile(m.chat, vn, 'infobot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
 handler.help = ['infobot']
