@@ -5,17 +5,17 @@ throw false
 }
 let vn = './media/Invocar.mp3'
 let pesan = args.join` `
-let oi = `*Bot Creado por CharliexNati* ${pesan}`
-let teks = `〔 *${wm}* 〕\n 𝐂𝐡𝐚𝐫𝐥𝐢𝐞𝐱𝐍𝐚𝐭𝐢 𝐥𝐨𝐬 𝐝𝐞𝐬𝐩𝐢𝐞𝐫𝐭𝐚 𝐦𝐨𝐜𝐡𝐨𝐬 \n\n ${oi}\n\n *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
+let oi = `*Bot Creado por Martiii.bs* ${pesan}`
+let teks = `〔 *${wm}* 〕\n DESPIERTEN PLANTAS \n\n ${oi}\n\n *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
 for (let mem of participants) {
-teks += `🌱 @${mem.id.split('@')[0]}\n`}
-teks += `└ @emx._xit\n\n*<3*`
+teks += `👸🏻 @${mem.id.split('@')[0]}\n`}
+teks += `└ 👸🏻@martiii.bs\n\n*<3*`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 conn.sendFile(m.chat, vn, 'Invocar.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
 handler.help = ['tagall <mesaje>','invocar <mesaje>']
 handler.tags = ['group']
-handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
+handler.command = /^(tagall|xikillas|sorrasbs|todos|zorras)$/i
 handler.admin = true
 handler.group = true
 export default handler
