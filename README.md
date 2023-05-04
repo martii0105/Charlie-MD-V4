@@ -7,7 +7,7 @@
 <a href="https://github.com/Emergit2006"><img src="https://github.com/Emergit2006.png" width="300" height="300" alt="Emergit2006"/></a>
 
 
-<a href="#"><img title="CharliexNatiBot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="@martiii.bs" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 
 
