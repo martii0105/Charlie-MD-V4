@@ -5,7 +5,7 @@ throw false
 }
 let vn = './media/Invocar.mp3'
 let pesan = args.join` `
-let oi = `*Bot Creado por Martiii.bs* ${pesan}`
+let oi = `*Bot Creado por Charliexnaty* ${pesan}`
 let teks = `〔 *${wm}* 〕\n DESPIERTEN PLANTAS \n\n ${oi}\n\n *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
 for (let mem of participants) {
 teks += `👸🏻 @${mem.id.split('@')[0]}\n`}
